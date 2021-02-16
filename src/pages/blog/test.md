@@ -7,7 +7,10 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: TEst
-  description: ''
+  description: >-
+    Rem officiis et quibusdam adipisci eius quaerat optio sapiente. Possimus qui
+    similique delectus esse omnis est. Autem quae libero deleniti dignissimos
+    excepturi expedita.
   robots: []
   extra:
     - name: 'og:title'
