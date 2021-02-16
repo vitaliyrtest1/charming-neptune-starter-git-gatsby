@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: TEst1
+      value: TEst12
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
