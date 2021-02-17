@@ -11,6 +11,10 @@ seo:
       name: 'og:type'
       value: website
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/2.png
+      keyName: property
+      relativeUrl: true
 template: post
 ---
 ## Lorem ipsum
