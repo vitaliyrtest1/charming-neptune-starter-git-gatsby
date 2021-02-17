@@ -24,6 +24,9 @@ seo:
         Facebook desc
       keyName: property
       relativeUrl: true
+  title: General title
+  description: |
+    General desc
 template: post
 ---
 ## Lorem ipsum
