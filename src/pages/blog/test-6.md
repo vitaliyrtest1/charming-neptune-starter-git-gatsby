@@ -19,6 +19,10 @@ seo:
       value: Facebook title
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/2.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
