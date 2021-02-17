@@ -23,6 +23,10 @@ seo:
       value: Twitter title
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/1.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
