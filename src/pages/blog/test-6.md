@@ -8,7 +8,7 @@ excerpt: lorem-ipsum
 seo:
   title: General title
   description: |
-    General description
+    General description!!!
   robots: []
   extra:
     - name: 'og:type'
