@@ -12,7 +12,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Facebook title
+      value: Facebook titleasddsassad
       keyName: property
       relativeUrl: false
     - name: 'og:image'
