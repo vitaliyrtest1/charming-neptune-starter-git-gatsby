@@ -17,6 +17,10 @@ seo:
       value: TEst12
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
