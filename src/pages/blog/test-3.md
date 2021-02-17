@@ -19,6 +19,11 @@ seo:
       value: Facebook test
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: |
+        Facebook desc
+      keyName: property
+      relativeUrl: true
 template: post
 ---
 ## Lorem ipsum
