@@ -59,7 +59,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/1.png
+      value: /images/3.png
       relativeUrl: true
 template: advanced
 ---
