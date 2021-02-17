@@ -10,7 +10,11 @@ seo:
   description: |
     General description
   robots: []
-  extra: []
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
