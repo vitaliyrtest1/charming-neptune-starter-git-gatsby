@@ -15,6 +15,10 @@ seo:
       value: /images/2.png
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Facebook test
+      keyName: property
+      relativeUrl: true
 template: post
 ---
 ## Lorem ipsum
