@@ -19,10 +19,6 @@ seo:
       value: Facebook title
       keyName: property
       relativeUrl: false
-    - name: 'twitter:title'
-      value: Twitter title
-      keyName: name
-      relativeUrl: false
     - name: 'og:image'
       value: /images/1.png
       keyName: property
