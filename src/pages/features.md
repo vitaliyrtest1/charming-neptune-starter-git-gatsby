@@ -59,10 +59,6 @@ seo:
     - name: 'og:description'
       value: This is the features page
       keyName: property
-    - name: 'og:image'
-      value: images/5.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
