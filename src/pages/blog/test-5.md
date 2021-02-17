@@ -7,7 +7,7 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: General title
-  description: ''
+  description: General desc
   robots: []
   extra:
     - name: 'og:title'
