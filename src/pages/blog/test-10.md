@@ -10,7 +10,11 @@ seo:
   description: |
     General desc
   robots: []
-  extra: []
+  extra:
+    - name: 'twitter:image'
+      value: /images/2.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
