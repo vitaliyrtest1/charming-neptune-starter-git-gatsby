@@ -9,7 +9,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Facebook title
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
