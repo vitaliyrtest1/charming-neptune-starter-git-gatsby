@@ -16,7 +16,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:title'
-      value: Facebook tester
+      value: Facebook testers
       keyName: property
       relativeUrl: true
     - name: 'og:description'
