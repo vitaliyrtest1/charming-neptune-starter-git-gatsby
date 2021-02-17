@@ -14,6 +14,11 @@ seo:
       value: Facebook title
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: |
+        Facebook desc
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
