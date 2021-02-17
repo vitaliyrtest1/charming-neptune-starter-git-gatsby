@@ -65,5 +65,9 @@ seo:
       value: Features
     - name: 'twitter:description'
       value: This is the features page
+    - name: 'og:image'
+      value: /images/2.png
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
