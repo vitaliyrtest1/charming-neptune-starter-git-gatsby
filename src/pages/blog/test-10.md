@@ -21,7 +21,7 @@ seo:
       relativeUrl: true
   type: stackbit_page_meta
 template: post
-image: images/futuristic-thyme.png
+image: images/neat-saturn.png
 ---
 ## Lorem ipsum
 
